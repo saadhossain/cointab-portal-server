@@ -1,0 +1,7 @@
+-- Table Structure
+CREATE TABLE usersdata (
+    id VARCHAR(80) PRIMARY KEY,
+    name VARCHAR(150),
+    email VARCHAR (150),
+    password VARCHAR(30)
+);
